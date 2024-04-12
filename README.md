@@ -31,7 +31,8 @@
     <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)-->
 
-- Framework :
+- 🪜 Framework :
+  
     ![NUXT JS](https://img.shields.io/badge/NUXT-00DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
     ![VUE JS](https://img.shields.io/badge/VUE_JS-41b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
     ![React JS](https://img.shields.io/badge/REACT_JS-149eca.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -130,6 +131,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=aditya-df&show_icons=true&theme=elegant" alt="aditya-df" /></p>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-df&show_icons=true&locale=en&layout=compact&theme=elegant"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-df&show_icons=true&locale=en&layout=compact&theme=elegant"/></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-df&theme=elegant" alt="GitHub Streak" /></p>
