@@ -133,4 +133,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-df&show_icons=true&locale=en&layout=compact&theme=elegant"/></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-df&mode=weekly&theme=elegant" alt="GitHub Streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-df&theme=elegant" alt="GitHub Streak" /></p>
